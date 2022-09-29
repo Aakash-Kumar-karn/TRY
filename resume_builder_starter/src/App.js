@@ -12,7 +12,7 @@ import AboutUs from './components/presentation/aboutUs';
 import Contacts from './components/presentation/contact';
 import Education from './components/presentation/education';
 import Finalize from  './components/presentation/finalizePage';
-
+//why not
 
 function App() {
   return (
