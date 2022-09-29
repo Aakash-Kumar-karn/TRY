@@ -40,7 +40,6 @@ function GettingStarted(props) {
                         })
                     }
                 </div>
-
             </div>
         </div>
     );
